@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Nicolas, 2015-11-18
 
 from __future__ import absolute_import, print_function, unicode_literals
 from gameclass import Game,check_init_game_done
