@@ -1,4 +1,5 @@
-#Strategical Ultimate Tic Tac Toe
+# Strategical Ultimate Tic Tac Toe
+
 - A projet proposed by professor Nicolas Maudet 
 - You can't run tests   on the jupyter notebook file because it was just to explain the technical details of the project so there 
 are several files and libraries which are missing .
